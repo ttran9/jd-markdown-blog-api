@@ -7,7 +7,3 @@
     - [authentication endpoints](https://dj-rest-auth.readthedocs.io/en/latest/api_endpoints.html)
     - [rest auth installation help](https://dj-rest-auth.readthedocs.io/en/latest/installation.html)
     - [allauth email configuration](https://django-allauth.readthedocs.io/en/latest/configuration.html)
-
-CORS_ORIGIN_WHITELIST = [
-    "http://localhost:3000",
-]
