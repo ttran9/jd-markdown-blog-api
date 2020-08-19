@@ -20,3 +20,10 @@ Content-Type: application/json
     "password1": "password1234@",
     "password2": "password1234@"
 }
+
+
+
+
+### Test Fetch Post List.
+GET http://127.0.0.1:8000/api/posts/
+Content-Type: application/json
